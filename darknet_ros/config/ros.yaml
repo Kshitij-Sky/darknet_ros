@@ -1,7 +1,7 @@
 subscribers:
 
   camera_reading:
-    topic: /camera/rgb/image_raw
+    topic: /thorvald_001/kinect2_right_camera/hd/image_color_rect
     queue_size: 1
 
 actions:
