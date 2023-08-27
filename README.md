@@ -1,7 +1,9 @@
 # YOLO ROS: Real-Time Object Detection for ROS
 
-This fork has been updated to detect and classify 5 types of grape varieties based on the [Embrapa](https://github.com/thsant/wgisd) dataset using ROS. The training consisted of 5500 iterations and achieved a max mAP value of 73.36%. The prediction results are below.
+This fork has been updated to detect and classify 5 types of grape varieties based on the [Embrapa](https://github.com/thsant/wgisd) dataset using ROS. The training loop consisted of 5500 iterations and achieved a max mAP value of 73.36%. The prediction results are below.
 ![predict image](predictions.jpg)
+![predict image](SVB_1959_predictions.jpg)
+![predict image](prediction_5500_73.36mAP.jpg)
 
 ## Overview
 
